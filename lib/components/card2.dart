@@ -1,4 +1,4 @@
-import 'package:apprentice/author_card.dart';
+import 'package:apprentice/components/author_card.dart';
 import 'package:apprentice/fooderlich_theme.dart';
 import 'package:flutter/material.dart';
 

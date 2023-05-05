@@ -1,8 +1,8 @@
 // ignore_for_file: camel_case_types
 
-import 'package:apprentice/card1.dart';
-import 'package:apprentice/card2.dart';
-import 'package:apprentice/card3.dart';
+import 'package:apprentice/components/card1.dart';
+import 'package:apprentice/components/card2.dart';
+import 'package:apprentice/components/card3.dart';
 import 'package:apprentice/fooderlich_theme.dart';
 import 'package:flutter/material.dart';
 

@@ -1,4 +1,4 @@
-import 'package:apprentice/card2.dart';
+import 'package:apprentice/components/card2.dart';
 import 'package:apprentice/fooderlich_theme.dart';
 import 'package:flutter/material.dart';
 
